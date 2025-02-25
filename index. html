@@ -1,0 +1,11 @@
+<html>
+    <head>
+    </head>
+    <body>
+        <button onclick="epankroco()">farand</button>
+        <script>
+           function epankroco(){alert("selamat pagi");};
+        </script>
+        
+    </body>
+</html>
